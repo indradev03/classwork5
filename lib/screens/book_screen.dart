@@ -5,6 +5,6 @@ class BookScreen extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return Scaffold(appBar: AppBar(title: Text("bookscreen")));
+    return Scaffold(appBar: AppBar(title: Text("Bookscreen")));
   }
 }
